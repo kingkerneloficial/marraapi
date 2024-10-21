@@ -1,0 +1,19 @@
+{
+    "name": "kingkernel-oficial/marraapi",
+    "description": "Projeto PHP que conecta no banco para montar query e devolver dados em json",
+    "type": "project",
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "KingkernelOficial\\Marraapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel José dos Santos",
+            "email": "daniel.santos.ap@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
