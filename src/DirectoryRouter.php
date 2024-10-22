@@ -11,4 +11,8 @@ class DirectoryRouter
     {
         return '';
     }
+    public static function getUrl()
+    {
+        print_r($_REQUEST);
+    }
 }
